@@ -1,4 +1,5 @@
 1. Import the zip file into your project.
+IMPORTANT: If you have client tags that you don't want erased, deslect client tags and use the xml file to add the client tags. 
 
 2a. If you are using MySQL as your projects database:
 Under Vison Windows, open BetterGraphs/BG_Setup.
